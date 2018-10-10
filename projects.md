@@ -16,6 +16,8 @@ the progress we made in spring '18 is [here]({{site.url}}/pdfs/report.pdf), and 
 ### WallStreetBets
 
 During HackPrinceton Fall '17, a few of my friends were working on implementing a trading idea that revolved around posts on a SubReddit called /r/WallStreetBets.  In the middle of their project, they asked me to whip up/implement a suitable ML algorithm for their strategy.  The results are in this [repository](https://github.com/houcharlie/WallStreetBets).  Surprisingly enough, it didn't do too badly in the time that we tested the strategy (the morning of presentations).
+
+
 ### Police App
 
 In summer '15, I made an Android application, intended for use with the Nashville Police Department to replace an outdated radio system for patrol car communication. This was my first programming project, and I learned quite a lot! The code can be found on GitHub [here][2]. It is not being maintained, and is written at the level of someone just learned how to program.
