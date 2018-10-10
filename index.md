@@ -3,11 +3,13 @@ layout: page
 title: Home
 ---
 
-<img style="float:right;margin:10px;" src="{{site.url}}/images/picme.jpg" width="150" alt="gene">
+<img style="float:right;margin:10px;" src="{{site.url}}/images/picme.jpg" width="150" alt="charlie">
 
-Hello! My name is Gene Li, and I am a senior in the Electrical Engineering Department at Princeton University. This is a personal website for me to keep track of things I've done and write about things I'm interested in: coffee, math, cooking, etc.
+Hi!  I'm currently a senior at the Operations Research and Financial Engineering department of Princeton University.
+My thesis advisor is [Yuxin Chen](http://www.princeton.edu/~yc5/).  My research interests include optimization, control/reinforcement learning,
+random graphs, and statistical inference.
 
 If you want to get in touch, you can reach me at:
-[gxli@princeton.edu](mailto:gxli@princeton.edu)
+[hou.charlie2@gmail.com](mailto:hou.charlie2@gmail.com)
 
 
