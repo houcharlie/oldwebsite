@@ -11,6 +11,8 @@ random graphs, and statistical inference.
 
 I also like writing fiction and [cooking](https://youtu.be/ATmsipFdZQ4).
 
+Thank you to [Gene Li](https://gxli97.github.io/) for letting me use his template!
+
 If you want to get in touch, you can reach me at:
 [hou.charlie2@gmail.com](mailto:hou.charlie2@gmail.com)
 

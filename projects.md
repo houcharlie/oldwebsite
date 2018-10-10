@@ -10,12 +10,12 @@ Here are some of the projects/research I've been involved in.
 
 This project is advised by [Professor Miklos Racz](http://mracz.princeton.edu/).  We
 want to give a more precise characterization of the algorithm proposed [here](https://pdfs.semanticscholar.org/043a/4b15b8f563002e1d1e3ee8dea5eed9aa26ca.pdf) for vertex order recovery in random graphs.  A report containing
-the progress we made in spring '18 is [here]({{site.url}}/pdfs/report.pdf), the code I used for the simulations is [here](https://github.com/houcharlie/peelingAnalysis) and a blog post giving a high level description is [here]({{site.url}}/peeling).  The project is still ongoing, and we are excited about making more inroads!
+the progress we made in spring '18 is [here]({{site.url}}/pdfs/report.pdf), the code I used for the simulations is [here](https://github.com/houcharlie/peelingAnalysis) and a blog post giving a high level description is [here]({{site.url}}/peeling).  The project is still ongoing, and we are excited about making more findings!
 
 
 ### "Acceleration" via depth in neural networks
 
-Two of my friends,[Hrishikesh Khandeparkar](http://www.cs.princeton.edu/~hrk/index.html) and [Gene Li](https://gxli97.github.io/), and I worked on a project studying the effect of additional depth on deep learning as a follow-up to this [paper](https://arxiv.org/pdf/1802.06509.pdf).  The final report is [here]({{site.url}}/pdfs/depth-final-report.pdf).  We found that increasing depth in neural networks made the regularization loss decrease, but did not impact the "real loss".  We hypothesize this is because the (L2) regularization makes the loss surface behave more like an Lp surface.
+Two of my friends, [Hrishikesh Khandeparkar](http://www.cs.princeton.edu/~hrk/index.html) and [Gene Li](https://gxli97.github.io/), and I worked on a project studying the effect of additional depth on deep learning as a follow-up to this [paper](https://arxiv.org/pdf/1802.06509.pdf).  The final report is [here]({{site.url}}/pdfs/depth-final-report.pdf).  We found that increasing depth in neural networks made the regularization loss decrease, but did not impact the "real loss".  We hypothesize this is because the (L2) regularization makes the loss surface behave more like an Lp surface.
 
 
 ### WallStreetBets
