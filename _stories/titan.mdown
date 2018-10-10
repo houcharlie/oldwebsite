@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Birth of a Titan
-permalink: /story/:title
+permalink: /stories/:title
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Review Club Chapter 1
-permalink: /story/:title
+permalink: /stories/:title
 ---
 
 Aaron picks nervously at his food.  It’s leftovers from last night.  Meatball spaghetti stuffed inside a thermos to keep it warm, alongside a container of vegetables kept cold by an ice pack tied to it.  Aaron’s mother cooked it for him last night because it’s his favorite dish; today is a big day.
