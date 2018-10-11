@@ -16,4 +16,6 @@ Thank you to [Gene Li](https://gxli97.github.io/) for letting me use his templat
 If you want to get in touch, you can reach me at:
 [hou.charlie2@gmail.com](mailto:hou.charlie2@gmail.com)
 
+My [resume]({{site.url}}/pdfs/Resume_.pdf).
+
 

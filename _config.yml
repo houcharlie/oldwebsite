@@ -20,12 +20,12 @@ excerpt_separator: ""
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: 
   facebook:
   flickr:
-  github:
+  github: https://github.com/houcharlie
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/charlie-hou-027a19113/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
