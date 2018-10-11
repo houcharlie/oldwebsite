@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interpolated Peeling: New learning algorithms for vertex order recovery
+title: Interpolated Peeling-New learning algorithms for vertex order recovery
 permalink: /blog/:title
 ---
 
