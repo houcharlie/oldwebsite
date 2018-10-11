@@ -16,7 +16,7 @@ COS597G (grad): Foundations of Deep Learning Theory, Fall '18
 
 ### Mathematics/Probability
 ORF309: Probability and Stochastic Systems, Fall '16  
-MAT320: Real Analysis, Fall '17  
+MAT320: Real Analysis and Measure Theory, Fall '17  
 ORF550 (grad): High Dimensional Probability, Fall '18  
 
 ### Computer Science
