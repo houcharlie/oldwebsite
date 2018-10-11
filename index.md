@@ -13,9 +13,11 @@ I also like writing fiction and [cooking](https://youtu.be/ATmsipFdZQ4).
 
 Thank you to [Gene Li](https://gxli97.github.io/) for letting me use his template!
 
+My [resume]({{site.url}}/pdfs/Resume_.pdf).
+
 If you want to get in touch, you can reach me at:
 [hou.charlie2@gmail.com](mailto:hou.charlie2@gmail.com)
 
-My [resume]({{site.url}}/pdfs/Resume_.pdf).
+
 
 
