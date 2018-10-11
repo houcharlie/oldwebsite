@@ -6,6 +6,6 @@ permalink:  /stories/
 
 ## Short stories/chapters
 
-{% for post in site.stories %}
-  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
+{% for story in site.stories %}
+  * {{ story.date | date_to_string }} &raquo; [ {{ story.title }} ]({{ story.url }})
 {% endfor %}
