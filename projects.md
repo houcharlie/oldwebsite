@@ -6,7 +6,7 @@ permalink: /projects/
 
 Here are some of the projects/research I've been involved in.
 
-### Analysis of peeling algorithms for random graph vertex order recovery
+### Interpolated peeling: new learning algorithms for random graph vertex order recovery
 
 This project is advised by [Professor Miklos Racz](http://mracz.princeton.edu/).  We
 want to give a more precise characterization of the algorithm proposed [here](https://pdfs.semanticscholar.org/043a/4b15b8f563002e1d1e3ee8dea5eed9aa26ca.pdf) for vertex order recovery in random graphs.  A report containing
