@@ -6,8 +6,8 @@ permalink:  /stories/
 
 ## Short stories
 
-[Birth of a Titan](https://houcharlie.github.io/stories/titan) Our dude.   
-[MIXTHREE](https://houcharlie.github.io/stories/mixthree) This made my creative writing teacher laugh out loud!  
+[Birth of a Titan](https://houcharlie.github.io/stories/titan)   
+[MIXTHREE](https://houcharlie.github.io/stories/mixthree) 
 
 ## The review club
 [The Review Club Chapter 1](https://houcharlie.github.io/stories/review1) 
