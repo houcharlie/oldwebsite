@@ -1,7 +1,7 @@
 ---
 layout:     page
-title:      Fiction
-permalink:  /fiction/
+title:      Stories
+permalink:  /stories/
 ---
 
 ## Short stories/chapters
