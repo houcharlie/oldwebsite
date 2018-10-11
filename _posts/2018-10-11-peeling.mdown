@@ -34,7 +34,7 @@ Let precision be the proportion of guesses the algorithm gets correct out of the
 </p>  
 The measures prefixed with ”Gen” are the ones made from interpolated peeling. Prefix "orig" means the peeling algorithm.  Prefix "aug" means the peeling+ algorithm.  Note how interpolated peeling has precision and recall between peeling and peeling+.  This is a graph comparing precision and recall between the three algorithms at different numbers of nodes.  
 
-*Remark*: As the threshold becomes more stringent, the interpolated peeling algorithm gets closer to peeling.  As the threshold becomes more lax, the interpolated peeling algorithm converges to peeling+.
+Remark: As the threshold becomes more stringent, the interpolated peeling algorithm gets closer to peeling.  As the threshold becomes more lax, the interpolated peeling algorithm converges to peeling+.
 
 It's clear from this graph that interpolated peeling is a middle ground between peeling and peeling+.
 
@@ -70,7 +70,7 @@ First, we view the binning process as a dynamic process.  By this I mean that an
 
 Studying it in this way, we come to the main theoretical result from the report:
 
-*Lemma 1*:  
+Lemma 1:  
 (1) if $$v \in B_{i}^{(t)}$$ (where $$B_{i}^{(t)}$$ is the ith oldest bin at the t'th time step of the graph) is part of a bin path (a path that connects the vertex to the youngest bin), and the incoming vertex in the next time step forms an edge with the end of the path then $$v \in B_{i + 1}^{(t+1)}$$.  
 (2) if $$v$$ is not part of a bin path that has the incoming vertex form an edge with the end of it, it cannot move to an older bin.  
 
