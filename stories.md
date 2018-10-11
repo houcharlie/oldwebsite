@@ -1,6 +1,6 @@
 ---
 layout:     page
-title:      Stories
+title:      Fiction
 permalink:  /stories/
 ---
 
