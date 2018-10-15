@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some first stabs at understanding ResNets
+title: First stabs at understanding ResNets
 permalink: /blog/:title
 ---
 
