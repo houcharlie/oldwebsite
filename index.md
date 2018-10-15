@@ -11,8 +11,6 @@ Articles I write will be placed in my own [blog](https://houcharlie.github.io/bl
 
 I also like writing [fiction](https://houcharlie.github.io/stories/) and [cooking](https://youtu.be/ATmsipFdZQ4).
 
-Thank you to [Gene Li](https://gxli97.github.io/) for letting me use his template!
-
 My [resume]({{site.url}}/pdfs/Resume_.pdf).
 
 If you want to get in touch, you can reach me at:
