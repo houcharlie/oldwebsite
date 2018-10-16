@@ -6,15 +6,15 @@ permalink: /projects/
 
 Here are some of the projects/research I've been involved in.
 
-### Convergence analysis of one-block ResNets (ongoing)
-
-This project is advised by [Professor Yuxin Chen](http://www.princeton.edu/~yc5/).  We want to understand the behavior of various flavors of stochastic gradient descent on one-block ResNets.  All the code used for the investigation is [here](https://github.com/houcharlie/resnet_convergence).  A blog post detailing some preliminary results is [here]({{site.url}}/blog/resnet_first_hypothesis).
-
 ### Interpolated peeling: new learning algorithms for vertex order recovery (ongoing)
 
 This project is advised by [Professor Miklos Racz](http://mracz.princeton.edu/).  We
 want to give a more precise characterization of the algorithm proposed [here](https://pdfs.semanticscholar.org/043a/4b15b8f563002e1d1e3ee8dea5eed9aa26ca.pdf) for vertex order recovery in random graphs.  A report containing
 the progress we made in spring '18 is [here]({{site.url}}/pdfs/report.pdf), the code I used for the simulations is [here](https://github.com/houcharlie/peelingAnalysis) and a blog post giving a high level description is [here]({{site.url}}/blog/peeling).  The project is still ongoing, and we are excited about making more findings!
+
+### Convergence analysis of one-block ResNets (ongoing)
+
+This project is advised by [Professor Yuxin Chen](http://www.princeton.edu/~yc5/).  We want to understand the behavior of various flavors of stochastic gradient descent on one-block ResNets.  All the code used for the investigation is [here](https://github.com/houcharlie/resnet_convergence).  A blog post detailing some preliminary results is [here]({{site.url}}/blog/resnet_first_hypothesis).
 
 
 ### "Acceleration" via depth in neural networks
