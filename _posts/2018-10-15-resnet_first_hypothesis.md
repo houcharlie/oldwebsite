@@ -25,7 +25,7 @@ Obviously, one thing that we might wonder after their work is whether or not thi
 
 $$
 \begin{equation}
-f(x, W) = \| W_{2}^{T}ReLU((W_{1})^{T}x) + x \|_{1}
+f(x, W) = W_{2}^{T}ReLU((W_{1})^{T}x) + x 
 \end{equation}
 $$
 
@@ -38,11 +38,11 @@ After all, the authors of the paper motivated their architecture by comparing it
 
 Somehow, though, Li et al.'s architecture seems to be very close to ResNet.  It seems strange that we are unable to see similar results.  So, I thought, the next thing that might be reasonable to do is try to adjust the architecture to make it as close to ResNet as as possible without losing the good optimization properties.
 
-So I turned my attention to the following architecture:
+So I turned my attention to the following architecture (where sum is taken over elements of the resulting vector):
 
 $$
 \begin{equation}
-f(x, W) = \| W_{2}^{T}ReLU((W_{1} + I)^{T}x)\|_{1}
+f(x, W) = sum(W_{2}^{T}ReLU((W_{1} + I)^{T}x))
 \end{equation}
 $$
 
@@ -53,18 +53,18 @@ We add the $$W_{2}$$ in front because ResNet has the same.  What I found was tha
 <img src="{{site.url}}/images/yuanzhiTwoWeight.png" width="300" alt="resnet">
 </p>  
 
-When it became apparent that this architecture had nice optimization properties, it was time to make the architecture even closer to a Resnet block.  So I looked at the following: 
+When it became apparent that this architecture had nice optimization properties, it was time to make the architecture even closer to a Resnet block.  So I looked at the following (note the one-norm or sum isn't there anymore): 
 
 $$
 \begin{equation}
-f(x, W) = \| W_{2}^{T}ReLU((W_{1} + I)^{T}x) + x\|_{1}
+f(x, W) = W_{2}^{T}ReLU((W_{1} + I)^{T}x) + x
 \end{equation}
 $$
 
 Note that this architecture has the same exact expressive power as a ResNet: they are functionally equivalent.  However, in terms of optimization, they are different.  For this modified ResNet, we saw a similar result as the architecture we tried out right above.  The training error went to zero, but we still do not recover the ground truth, suggesting that the local minima are global minima as well.
 
 <p style="text-align:center;">
-<img src="{{site.url}}/images/yuanzhiTwoWeight.png" width="300" alt="resnet">
+<img src="{{site.url}}/images/modresnet10.png" width="300" alt="resnet">
 </p>  
 
 ## Conclusion
