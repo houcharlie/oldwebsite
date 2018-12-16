@@ -3,8 +3,7 @@ layout: page
 title: Coursework
 permalink: /coursework/
 ---
-
-Here is *some* of the relevant coursework I've completed at Princeton University.  
+ 
 (Grad) denotes a graduate level course.
 ### Machine Learning/Statistics/Optimization
 
